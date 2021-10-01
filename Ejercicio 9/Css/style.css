@@ -1,0 +1,48 @@
+@font-face{
+    font-family: Robotox;
+    src: url('../fonts/Roboto-Regular.ttf') format('truetype');
+}
+
+#BarraSuperior{
+    color: white;
+    background-color: black;
+}
+#MenúPrincipal{
+    background-color: orange;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+#SeccionProductos{
+    background-color: #fbfaf6;
+}
+footer{
+    background-color: #3c2313;
+}
+.precio{
+    color: #f0a83e;
+}
+#FinalBoss{
+    background-color: #F0A83E;
+    color: white;
+    text-align: center;
+}
+#SeccionBanner{
+    background-image: url("../img/bowl-and-pet-daities-on-green-background\ 1.png") ;
+    width: 1080px;
+    height: 409px;
+    background-size: cover;
+}
+.BannerText{
+    text-align: center;
+}
+#Comederos{
+    background-color: orange;
+    color: whitesmoke;
+}
+#PDestacados{
+    font-family: Robotox;
+    font-size: 40px;
+    text-align: center;
+}

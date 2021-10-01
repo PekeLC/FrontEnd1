@@ -1,0 +1,40 @@
+span#subtitulos{
+    font-weight: bold;
+    font-style: italic;
+}
+header{
+    text-align: center;
+    background-color: white;
+}
+footer{
+    background-color: #005677;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 0%;
+    margin-bottom: 0ch;
+}
+span#negrita{
+    font-weight: bold;
+    font-style: italic;
+}
+span#conmargen{
+    display: block;
+    margin-left: 79px;
+}
+h3#titulo{
+    color: #005677;
+    background-color: #C4C4C4;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+h1{
+    color:#005677;
+    background-color: #C4C4C4;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+}
+#logo{
+    margin: 0 7px
+}

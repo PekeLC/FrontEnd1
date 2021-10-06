@@ -1,0 +1,240 @@
+@font-face {
+    font-family: Robotox;
+    src: url("../fonts/Roboto-Regular.ttf") format('truetype');
+}
+
+*{
+    font-family: Robotox;
+    margin: 0px;
+}
+
+/*******Titulos*************/
+
+#Header{
+    background-color: #1CD1B0;
+    padding: 10px;
+    width: 1024px;
+    height: 38px;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+.heroes{
+background-color: #00669F;
+width: 1024px;
+height: 101px;
+font-size: 40px;
+padding-top: 28px;
+padding-bottom: 26px;
+padding-left: 28px;
+position: fixed;
+box-sizing: border-box;
+border: 1px solid rgba(0, 0, 0, 1);
+box-shadow: 0px 10px 7px 0px rgba(0, 0, 0, 0.25);
+}
+
+/********** Generales *************/
+
+footer{
+    width: 1024px;
+    height: 51px;
+    background-color: #00669F;
+    font-size: 16px;
+    color:  #FFF9F9;
+    padding: 16px;
+    box-sizing: border-box;
+    position: absolute;
+    left: 0px;
+    top: 972px;
+}
+.corazon{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 3%;
+    bottom: 6.25%;
+    padding-top: 8px;
+    padding-left: 21px;
+}
+
+
+/************PrimeraTarjeta*************/
+
+.PrimerBatman{
+    width: 300px;
+    height: 529px;
+    left: 32px;
+    top: 292px;
+    display: block;
+    position: absolute;
+    box-sizing: border-box;
+    background-color: #f3f3f3;
+}
+
+.batmanimg{
+    display: block;
+    box-sizing: border-box;
+    position: absolute;
+    width: 120px;
+    height: 118px;
+    left: 90px;
+    top: 128px;
+    border-radius: 53px;
+    box-shadow: 0px 10px 7px 0px rgba(0, 0, 0, 0.25);
+}
+.fondobatman1{
+    position: absolute;
+    width: 300px;
+    height: 193px;
+}
+.texto1{
+    font-size: 16px;
+    line-height: 19px;
+    color: #333;
+    position: absolute;
+    display: block;
+    padding-top: 302px;
+    width: 267px;
+    height: 113px;
+    padding-left: 16px;
+    padding-right: 17px;
+}
+.vermas1{
+    background-color: #00669f;
+    width: 128.78px;
+    height: 48.52px;
+    text-align: center;
+    box-sizing: border-box;
+    margin-top: 430px;
+    margin-left: 85px;
+    position: absolute;
+    color: #f3f3f3;
+    padding-top: 15px;
+}
+.name1{
+    font-size: 30px;
+    line-height: 35px;
+    padding-top: 255px;
+    padding-left: 89px;
+    position: absolute;
+}
+/*********SegundaTarjeta**********/
+
+.Harley{
+    width: 300px;
+    height: 529px;
+    left: 362px;
+    top: 292px;
+    display: block;
+    position: absolute;
+    box-sizing: border-box;
+    background-color: #f3f3f3;
+}
+.harleyimg{
+    width: 120px;
+    height: 118px;
+    border-radius: 53px;
+    display: block;
+    position: absolute;
+    box-sizing: border-box;
+    left: 90px;
+    top: 128px; 
+    box-shadow: 0px 10px 7px 0px rgba(0, 0, 0, 0.25);
+}
+.fondoharley{
+    position: absolute;
+    width: 300px;
+    height: 193px;
+}
+.texto2{
+    font-size: 16px;
+    line-height: 19px;
+    color: #333;
+    position: absolute;
+    display: block;
+    padding-top: 302px;
+    width: 267px;
+    height: 113px;
+    padding-left: 16px;
+    padding-right: 17px;
+}
+.vermas2{
+    background-color: #00669f;
+    width: 128.78px;
+    height: 48.52px;
+    text-align: center;
+    box-sizing: border-box;
+    margin-top: 430px;
+    margin-left: 85px;
+    position: absolute;
+    color: #f3f3f3;
+    padding-top: 15px;
+}
+.name2{
+    font-size: 30px;
+    line-height: 35px;
+    padding-top: 255px;
+    padding-left: 89px;
+    position: absolute;
+}
+
+/*****TerceraTarjeta***********/
+
+.SegundoBatman{
+    width: 300px;
+    height: 529px;
+    left: 692px;
+    top: 293px;
+    display: block;
+    position: absolute;
+    box-sizing: border-box;
+    background-color: #f3f3f3;
+    
+}
+.batmanimg2{
+    display: block;
+    box-sizing: border-box;
+    position: absolute;
+    width: 120px;
+    height: 118px;
+    left: 90px;
+    top: 128px;
+    border-radius: 53px;
+    box-shadow: 0px 10px 7px 0px rgba(0, 0, 0, 0.25);
+}
+.fondobatman2{
+    position: absolute;
+    width: 300px;
+    height: 193px;
+}
+.texto3{
+    font-size: 16px;
+    line-height: 19px;
+    color: #333;
+    position: absolute;
+    display: block;
+    padding-top: 302px;
+    width: 267px;
+    height: 113px;
+    padding-left: 16px;
+    padding-right: 17px;
+}
+.vermas3{
+    background-color: #00669f;
+    width: 128.78px;
+    height: 48.52px;
+    text-align: center;
+    box-sizing: border-box;
+    margin-top: 430px;
+    margin-left: 85px;
+    position: absolute;
+    color: #f3f3f3;
+    padding-top: 15px;
+}
+.name3{
+    font-size: 30px;
+    line-height: 35px;
+    padding-top: 255px;
+    padding-left: 89px;
+    position: absolute;
+}
